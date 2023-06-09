@@ -15,6 +15,6 @@ Use collab for easier and faster performance.
 # Authors
 
 - [Aditya Somani](https://github.com/adisomani2003)
-- [Deep Chordia]()
+- [Deep Chordia](https://github.com/DeepC004)
 - [Kavyanjali Agnihotri](https://github.com/kavyagnihotri)
-- [Parth Tulsyan]()
+- [Parth Tulsyan](https://github.com/DeepC004)
