@@ -1,6 +1,6 @@
-# Style Image Transfer
+# CS F425 - Deep Learning
 
-Deep Learning | BITS Pilani, Hyderabad Campus
+Perform Depth Aware Neural Style Transfer using Style, Content and Depth Loss on VGGNet backbone. This project is part of Deep Learning coursework.
 
 # Process Workflow
 
